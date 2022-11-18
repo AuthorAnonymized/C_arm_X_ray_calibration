@@ -1,5 +1,4 @@
-**Calibration-of-a-C-arm-X-ray-device-Winter-school**
-  Authors: Shuai Zhang
+**Calibration-of-a-C-arm-X-ray-device
 
 **1. Datasets**
 
@@ -20,7 +19,6 @@
 
   Clone the repository:
 
-  git clone https://github.com/zsustc/Calibration-of-a-C-arm-x-ray-device-Winter-school.git
   Execute:
 
   mkdir build
